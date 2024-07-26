@@ -4,7 +4,7 @@
 Analog Input Pins
 =================
 
-In addition to digital input and output pins, autopilots have analog input pins that allow measuring voltages precisely. These are commonly used for the power monitor voltge and current sense inputs, but other pins are sometimes provided for:
+In addition to digital input and output pins, autopilots have analog input pins that allow measuring voltages precisely. These are commonly used for the power monitor voltage and current sense inputs, but other pins are sometimes provided for:
 
 - RSSI (Received Signal Strength Input)
 - Analog Airspeed Sensor Input
